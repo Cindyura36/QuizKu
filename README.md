@@ -22,5 +22,5 @@
 - *Credit Aset:*
 - Logo Kuis : Canva [https://canva.link/0juluw0343cwd39]
 - Font : Poppins by Google Fonts [https://fonts.google.com/specimen/Poppins]
-- *Screenshot Aplikasi:* [  ]
-- *Link Video Presentasi:* [  ]
+- *Screenshot Aplikasi:* [https://drive.google.com/drive/folders/1pTfpB41HiTvupEasyYs610GGBoZKn7Bk?usp=sharing]
+- *Link Video Presentasi:* [https://drive.google.com/file/d/1q0pW6il6eb2TmzPrsaUhGkbQ9oTc8k-o/view?usp=drive_link]
